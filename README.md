@@ -1,3 +1,6 @@
+
+![FastAPI Logo](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+
 # Discord Gemini Chatbot
 
 A powerful Discord bot integrated with Google's Gemini AI, featuring persistent message history storage using MongoDB and a FastAPI backend.
