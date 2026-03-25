@@ -92,7 +92,7 @@ Before running the application, ensure you have the following installed:
     ```env
     DISCORD_BOT_TOKEN=your_discord_bot_token
     GEMINI_API_KEY=your_google_gemini_api_key
-    MONGODB_URI=mongodb://localhost:27017
+    MONGODB_URI=mongodb:
     ```
 
 ## Running the Application
