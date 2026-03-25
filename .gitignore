@@ -8,3 +8,4 @@ chatdata.dir
 chatdata.db
 .vscode
 .DS_Store
+venv

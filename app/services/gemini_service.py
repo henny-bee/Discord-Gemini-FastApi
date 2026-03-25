@@ -13,7 +13,7 @@ class GeminiService:
         """Initialize the AI service with configuration."""
         genai.configure(api_key=settings.GEMINI_API_KEY)
         self.model = genai.GenerativeModel(
-            model_name="gemini-1.5-flash", 
+            model_name="gemini-3-flash-preview",
             generation_config=settings.TEXT_GENERATION_CONFIG,
             safety_settings=settings.SAFETY_SETTINGS
         )
