@@ -57,7 +57,7 @@ Before running the application, ensure you have the following installed:
 
     ```bash
     git clone https://github.com/henny-bee/Discord-Gemini-FastApi.git
-    cd discord-gemini-chatbot
+    cd Discord-Gemini-FastApi
     ```
 
 2.  **Create a virtual environment:**
